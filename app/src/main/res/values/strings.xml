@@ -6,4 +6,8 @@
     <string name="menu_conte_do">Menu conteúdo</string>
     <string name="house_of_cards">House of Cards</string>
     <string name="s1_e2">S1:E2</string>
+    <string name="imagem_house_of_cards">Imagem House of Cards</string>
+    <string name="voltar">Voltar</string>
+    <string name="play">Play</string>
+    <string name="pausar">Pausar</string>
 </resources>
